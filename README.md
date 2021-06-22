@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Julian
 #### Welcome to my GitHub
-![Welcome to my GitHub](https://f8n-production.s3.amazonaws.com/creators/profile/y06tgrj7i-background-foundation-gif-pnvm71.gif)
+![Welcome to my GitHub](![image](https://user-images.githubusercontent.com/75989926/122969350-ea887800-d362-11eb-9b6e-a3a9851654da.png))
 
 I'm interested in working on projects where i have the possibility to learn as a developer and as a person too.
 I like developing and making the final product efficient by optimizing it.
