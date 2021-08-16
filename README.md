@@ -7,10 +7,10 @@ I like developing and making the final product efficient by optimizing it.
 I enjoy refactoring code and learning new libraries and technologies.
 
 
-Skills: REACT, REDUX, RXJS, POSTGRESQL, NODE, SEQUELIZE, EXPRESS, TYPESCRIPT, FIREBASE, HTML, CSS
+Skills: ReactJS, Redux, RxJS, Vue.js, Vuex, PostgreSQL, NodeJS, Sequelize, Express, TypeScript, Firebase, HTML5, CSS3
 
 
-- 🔭 I’m currently working on E-Commerce for a start-up from Colombia as a final project so i can graduate from Henry bootcamp 
+- 🔭 I’m currently working for Equo as a Front-end Developer
 - 📫 How to reach me: julipinchasl60@gmail.com 
 
 
