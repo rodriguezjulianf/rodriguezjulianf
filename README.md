@@ -4,10 +4,10 @@
 
 I'm interested in working on projects where i have the possibility to learn as a developer and as a person too.
 I like developing and making the final product efficient by optimizing it.
-I enjoy refactoring code and learning new libraries and technologies.
+I enjoy code reviews and learning new libraries and technologies.
 
 
-Skills: ReactJS, Redux, RxJS, Vue.js, Vuex, PostgreSQL, NodeJS, Sequelize, Express, TypeScript, Firebase, HTML5, CSS3
+Skills: Vue.js, Vuex, Nuxt, Tailwind, React, Redux, PostgreSQL, Node, Sequelize, Express, TypeScript, RxJS, Firebase, HTML5, CSS3 and pre-processors (Less/Sass), Git, Gitlab, Scrum
 
 
 - 🔭 I’m currently working for Equo as a Front-end Developer
